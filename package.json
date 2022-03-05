@@ -1,0 +1,15 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "meng",
+  "license": "ISC",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "express": "^4.17.3"
+  }
+}
